@@ -1,2 +1,2 @@
 # HealthCare-Dashboard
-A complete dashboard for health care of hospital 
+A complete dashboard for health care of hospital
