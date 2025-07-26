@@ -1,24 +1,61 @@
-# HealthCare-Dashboard
-A complete dashboard for health care of hospital
-# 🏥 Healthcare Dashboard for Hospital
+# 🏥 Healthcare Dashboard – Excel & Power BI
 
-A modern, interactive healthcare analytics dashboard designed to visualize hospital performance metrics, patient insights, and operational efficiency. This project aims to assist hospital staff and management in making data-driven decisions through intuitive charts, KPIs, and real-time monitoring features.
+This is a dashboard I made to analyze healthcare data using Excel and Power BI. The main aim was to get insights about patient visits, departments, disease trends, and overall hospital activity. It’s a simple but effective way to visualize hospital performance and patient flow.
 
-## 📊 Features
+---
 
-- ✅ Patient admission & discharge trends
-- ✅ Bed occupancy rate and availability
-- ✅ Real-time vital stats overview 
-- ✅ Department-wise treatment statistics
-- ✅ Doctor and staff performance metrics
-- ✅ Financial insights (billing, insurance, etc.)
-- ✅ Interactive filters for date, department, and patient category
+## 🔧 Tools Used
 
-## 🛠️ Tech Stack
+- **Excel** – for cleaning the raw data and preparing it for use
+- **Power BI** – to create the interactive dashboard and charts
 
-Excel for the data cleaning 
-sql for the data store 
-power bi for dashboard creation 
+---
 
+## 📊 What’s Included in the Dashboard
 
+- Total number of patients
+- Admissions and discharges
+- Most common diseases
+- Department-wise data (like cardiology, general medicine, etc.)
+- Gender-wise patient distribution
+- Age group breakdown
+- Monthly patient trends
+- Filters to view data by gender, department, and date
 
+---
+
+## 📷 Dashboard Preview
+
+![Healthcare Dashboard](https://github.com/pawanyadav0104/your-repo-name/blob/main/healthcare_dashboard.png?raw=true)
+
+> Replace the URL above with your actual image link after uploading the screenshot
+
+---
+
+## 📁 Files in the Repo
+
+- `Healthcare_Data.xlsx` – main dataset used
+- `README.md` – this file
+- (Optional) `.pbix` file if you're uploading the Power BI version
+
+---
+
+## 🔍 Key Insights I Found
+
+- Most patients came to General Medicine and Emergency.
+- Respiratory and heart-related issues were common.
+- A large number of female patients were between 30–50 years old.
+- Highest patient volume happened during certain months (like August).
+
+---
+
+## 👨‍💻 Made by
+
+**Pawan Yadav**  
+If you have any suggestions or questions, feel free to reach out.
+
+---
+
+## 📄 License
+
+This project is open for anyone to use or learn from. MIT License.
