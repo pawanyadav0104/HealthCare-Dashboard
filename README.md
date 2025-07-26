@@ -26,9 +26,9 @@ This is a dashboard I made to analyze healthcare data using Excel and Power BI. 
 
 ## 📷 Dashboard Preview
 
-![Healthcare Dashboard](https://github.com/pawanyadav0104/your-repo-name/blob/main/healthcare_dashboard.png?raw=true)
+![Healthcare Dashboard](https://github.com/pawanyadav0104/HealthCare-Dashboard/blob/main/healthcare_dashboard.png?raw=true)
 
-> Replace the URL above with your actual image link after uploading the screenshot
+
 
 ---
 
